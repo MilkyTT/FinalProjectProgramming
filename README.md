@@ -4,8 +4,8 @@ Hello, my project is about data analysis and data visualization. My other reposi
 Please access my two microprojects: 
 1. Trends in High School: (https://github.com/MilkyTT/FinalProjectProgramming/blob/main/microproject-01-trends-in-high-school-gpas/microproject-01-trends-in-high-school-gpas.ipynb)
 2. FIFA Matches since 1872: (https://github.com/MilkyTT/FinalProjectProgramming/blob/main/microproject-08-fifa-matches-since-1872/microproject-08-fifa-matches-since-1872.ipynb)
-3. My grade for completing the first microproject: https://github.com/MilkyTT/FinalProjectProgramming/actions/runs/14920341084
-4. My grade and award for finishing the second microproject: https://github.com/MilkyTT/FinalProjectProgramming/actions/runs/15103292832
+3. My grade for completing the first microproject: (https://github.com/MilkyTT/FinalProjectProgramming/actions/runs/14920341084)
+4. My grade and award for finishing the second microproject: (https://github.com/MilkyTT/FinalProjectProgramming/actions/runs/15103292832)
 
 If you are interested, view these Google Slides for my Final Presentation:
 https://docs.google.com/presentation/d/1UGc_1Ft2EEay-8mtCaoGhnQBUQYUHgPr_OCGwff6uAs/edit?slide=id.p#slide=id.p
